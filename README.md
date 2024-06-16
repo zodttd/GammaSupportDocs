@@ -61,7 +61,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to eat tacos](https://zodttd.github.io/GammaSupportDocs/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
 - [How to make spaghetti](https://zodttd.github.io/GammaSupportDocs/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://zodttd.github.io/GammaSupportDocs/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [No more ads with Gamma Pro!](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
+- [No more ads with Gamma Pro!](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Peach smoothie](https://zodttd.github.io/GammaSupportDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://zodttd.github.io/GammaSupportDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://zodttd.github.io/GammaSupportDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
