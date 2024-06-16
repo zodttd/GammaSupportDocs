@@ -1,6 +1,6 @@
 ---
 title: No more ads with Gamma Pro!
-tags: news,toppriority
+tags: news,priority
 ---
 
 # Get Gamma Pro

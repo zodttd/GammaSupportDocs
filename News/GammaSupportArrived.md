@@ -1,6 +1,6 @@
 ---
 title: Gamma Support has arrived!
-tags: news,priority
+tags: news,toppriority
 ---
 
 # Gamma Support Has Arrived!
