@@ -56,6 +56,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [No more ads with Gamma Pro!](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia.md))
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
+- [Version 1.5.0 released, huge update!](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
 
 
 ## Notes
