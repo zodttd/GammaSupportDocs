@@ -1,11 +1,11 @@
 ---
-title: Cheats coming soon!
-tags: news
+title: Cheats are here!
+tags: news,priority
 ---
 
-# Cheat codes are being added
+# Cheat codes are here!
 
-You can look forward to cheat codes being added in an update to come shortly!
-Gamma Pro users will be able to try this feature out early as we work on it more.
+Gamma Pro users are currently able to try this feature out early!
+Enabling cheats is easy. Just go to the pause menu inside the game, choose Cheats, and search for codes by selecting the add "+" icon.
 
-Thank you for all the feedback!
+We're always listening to our fans and glad to bring you this top request! Thank you for all the feedback!

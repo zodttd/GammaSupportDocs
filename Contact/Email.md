@@ -11,7 +11,7 @@ We love receiving your feedback! Especially if it's:
 - Bugs to fix
 - Supporting purchases
 
-Contact us at: gamma@zodttd.com
+Contact us at: [gamma@zodttd.com](mailto:gamma@zodttd.com)
 
 
 Thank you and looking forward to hearing from you!
