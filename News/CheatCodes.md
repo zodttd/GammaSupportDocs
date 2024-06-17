@@ -1,5 +1,5 @@
 ---
-title: Cheats are here!
+title: Cheats are here
 tags: news,priority
 ---
 

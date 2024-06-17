@@ -1,5 +1,5 @@
 ---
-title: Gamma Support has arrived!
+title: Gamma Support has arrived
 tags: news,toppriority
 ---
 

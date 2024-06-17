@@ -1,5 +1,5 @@
 ---
-title: Version 1.5.0 released, huge update!
+title: Version 1.5.0 released, huge update
 tags: news,priority
 ---
 

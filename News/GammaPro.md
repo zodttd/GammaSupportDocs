@@ -1,5 +1,5 @@
 ---
-title: No more ads with Gamma Pro!
+title: No more ads with Gamma Pro
 tags: news,toppriority
 ---
 
