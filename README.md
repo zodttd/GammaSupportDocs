@@ -49,14 +49,14 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [404 Page](https://zodttd.github.io/GammaSupportDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/404.md))
 - [Adding Games To Gamma](https://zodttd.github.io/GammaSupportDocs/GettingStarted/AddGames) (gettingstarted, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/AddGames.md))
 - [Bug Reports & Feature Requests](https://zodttd.github.io/GammaSupportDocs/Contact/BugReport) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/BugReport.md))
-- [Cheats are here!](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes.md))
+- [Cheats are here](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes.md))
 - [Coming soon!](https://zodttd.github.io/GammaSupportDocs/ControllerSkins/ComingSoon) (controllerskins) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/ControllerSkins/ComingSoon.md))
 - [Email Us](https://zodttd.github.io/GammaSupportDocs/Contact/Email) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/Email.md))
-- [Gamma Support has arrived!](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
-- [No more ads with Gamma Pro!](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
+- [Gamma Support has arrived](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
+- [No more ads with Gamma Pro](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia.md))
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
-- [Version 1.5.0 released, huge update!](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
+- [Version 1.5.0 released, huge update](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
 
 
 ## Notes
