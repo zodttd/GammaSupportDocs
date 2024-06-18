@@ -1,9 +1,9 @@
 ---
-title: Gamma Support has arrived
+title: Gamma Support Center has arrived
 tags: news,toppriority
 ---
 
-# Gamma Support Has Arrived!
+# Gamma Support Center Has Arrived!
 
 You're looking at one of Gamma's newest features, in-app help! Here you can now find:
 
