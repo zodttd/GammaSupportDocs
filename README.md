@@ -52,10 +52,14 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Cheats are here](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes.md))
 - [Coming soon!](https://zodttd.github.io/GammaSupportDocs/ControllerSkins/ComingSoon) (controllerskins) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/ControllerSkins/ComingSoon.md))
 - [Email Us](https://zodttd.github.io/GammaSupportDocs/Contact/Email) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/Email.md))
-- [Gamma Support has arrived](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
+- [Game Compatibility](https://zodttd.github.io/GammaSupportDocs/FAQs/Compatibility) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/Compatibility.md))
+- [Gamma Support Center has arrived](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
+- [Multi-Disc functionality is here](https://zodttd.github.io/GammaSupportDocs/News/MutiDisc) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/MutiDisc.md))
 - [No more ads with Gamma Pro](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia.md))
+- [Subscribing as a Gamma Supporter](https://zodttd.github.io/GammaSupportDocs/News/GammaSupporters) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupporters.md))
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
+- [Swap a CD in a multi-disc game](https://zodttd.github.io/GammaSupportDocs/GettingStarted/MultiDisc) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/MultiDisc.md))
 - [Version 1.5.0 released, huge update](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
 
 
