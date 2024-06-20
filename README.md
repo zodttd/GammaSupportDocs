@@ -62,7 +62,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
 - [Swap a CD in a multi-disc game](https://zodttd.github.io/GammaSupportDocs/GettingStarted/MultiDisc) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/MultiDisc.md))
 - [Version 1.5.0 released, huge update](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
-- [Version 1.5.2 released, big update](https://zodttd.github.io/GammaSupportDocs/News/Version010502) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010502.md))
+- [Version 1.5.3 released, big update](https://zodttd.github.io/GammaSupportDocs/News/Version010503) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010503.md))
 
 
 ## Notes
