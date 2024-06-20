@@ -1,9 +1,9 @@
 ---
-title: Version 1.5.2 released, big update
+title: Version 1.5.3 released, big update
 tags: news,priority
 ---
 
-# Version 1.5.2 is here!
+# Version 1.5.3 is here!
 
 
 The following games are now compatible:
@@ -20,5 +20,6 @@ We added:
 - Initial support for deep links is being tested.
 - Added some Widescreen Gameshark-format cheat codes. They work well without any options. Works well on Crash Bandicoot!
 - We have easy disc swapping, PGXP type of high resolution 3D, sync and hardware controllers are working, 
+- We quickly fixed a menu bug in Gamma Support Center and the Format Memory Cards option
 
 Lots more in the works too! Thank you so much for your support! Big shout out to the Gamma Pros and Supporters out there who have been making it possible for me to work on this!
