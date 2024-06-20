@@ -1,6 +1,6 @@
 ---
 title: Version 1.5.0 released, huge update
-tags: news,priority
+tags: news
 ---
 
 # Version 1.5.0 is here!

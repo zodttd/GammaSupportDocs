@@ -11,4 +11,6 @@ Enabling cheats is easy:
  - Search for codes by selecting the add "+" icon
  - Cheats enabled with a checkmark will be activated when resuming the game
 
-We're always listening to our fans and glad to bring you this top request! Thank you for all the feedback!
+In v1.5.2 we added some Gameshark-format cheat codes that force an accurate widescreen in landscape for games like Crash Bandicoot! Let us know if we missed any codes!
+
+We're always listening to our fans and glad to bring you this top request. Thank you for all the feedback!
