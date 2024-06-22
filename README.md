@@ -63,7 +63,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Swap a CD in a multi-disc game](https://zodttd.github.io/GammaSupportDocs/GettingStarted/MultiDisc) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/MultiDisc.md))
 - [Version 1.5.0 released, huge update](https://zodttd.github.io/GammaSupportDocs/News/Version010500) (news) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010500.md))
 - [Version 1.5.3 released, big update](https://zodttd.github.io/GammaSupportDocs/News/Version010503) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010503.md))
-- [What's New In Version 1.5.4](https://zodttd.github.io/GammaSupportDocs/WhatsNew/v010504t) (whatsnew, whatsnewv010504) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/WhatsNew/v010504t.md))
+- [What's New In Version 1.5.4](https://zodttd.github.io/GammaSupportDocs/WhatsNew/v010504tst) (whatsnew, whatsnewv010504, whatsnewv010504tst) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/WhatsNew/v010504tst.md))
 
 
 ## Notes
