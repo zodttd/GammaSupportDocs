@@ -1,12 +1,30 @@
 ---
-title: Version 1.5.4 released
-tags: news,priority
+title: Big update! Version 1.6.0 released
+tags: news,toppriority
 ---
 
-# Version 1.5.4 is here!
+# Version 1.6.0 is here!
 
 
-Gamma has been updated to version 1.5.4 with the following:
+Gamma has been updated to version 1.6.0 with the following:
+ - Local multiplayer: Connect up to 4 controllers!
+ - New controller skin that supports analog controls! Currently on iPhone. iPad users will get an update shortly. You can always switch to this skin or the original skin in Settings -> Controller Type
+ - Games with Dual Shock controller are supported! Just toggle analog controls in the pause menu from dpad to analog like you would a Dual Shock.
+ - Hardware controllers now support in-game analog controls, map them to your controller's analog sticks! Because we added analog controls, you may need to remap your hardware controller this one time. In Settings you can map your analog sticks by selecting each direction on the analog thumbsticks to the direction on your controller's sticks.
+ - Fixed a bug in the game selection screen's long-press Save State menu item
+ - Fixed a bug preventing PBP files from being imported in the file menu
+ - Added support for many games from bug reports I received
+
+Be sure to try the new controller skin! Also remap your hardware controllers to support analog sticks.
+Remember to try the new "Precise Cycles" option for any game that isn't working, and let us know if it helps.
+We're always listening to our fans and glad to bring you your requests. Thank you for all the feedback!
+
+
+# Previous updates
+
+
+Version 1.5.4:
+
  - Fixed portrait view's aspect ratio from being stretched by fullscreen settings
  - Added harware controller mappings for L3, R3, Xbox Paddle, and Dual Shock touch pad
  - Fixed a popup for Gamma Pro when using deep links
@@ -17,14 +35,6 @@ Gamma has been updated to version 1.5.4 with the following:
  - - - GAME sets fullscreen if a scene supports it
  - - - OFF has no stretching of the screen
  - - - Default is now GAME
-
-Widescreen on Gamma looks great, give it a try! You can always disable it at any time.
-Remember to try the new "Precise Cycles" option for any game that isn't working, and let us know if it helps.
-We're always listening to our fans and glad to bring you your requests. Thank you for all the feedback!
-
-
-# Previous updates
-
 
 Version 1.5.3:
 
