@@ -48,6 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://zodttd.github.io/GammaSupportDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/404.md))
 - [Adding Games To Gamma](https://zodttd.github.io/GammaSupportDocs/GettingStarted/AddGames) (gettingstarted, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/AddGames.md))
+- [Big update! Version 1.6.0 released](https://zodttd.github.io/GammaSupportDocs/News/Version010600) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010600.md))
 - [Bug Reports & Feature Requests](https://zodttd.github.io/GammaSupportDocs/Contact/BugReport2) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/BugReport2.md))
 - [Cheats are here](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes-2) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes-2.md))
 - [Coming soon!](https://zodttd.github.io/GammaSupportDocs/ControllerSkins/ComingSoon) (controllerskins) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/ControllerSkins/ComingSoon.md))
@@ -61,7 +62,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Subscribing as a Gamma Supporter](https://zodttd.github.io/GammaSupportDocs/News/GammaSupporters) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupporters.md))
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
 - [Swap a CD in a multi-disc game](https://zodttd.github.io/GammaSupportDocs/GettingStarted/MultiDisc) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/MultiDisc.md))
-- [Version 1.5.4 released](https://zodttd.github.io/GammaSupportDocs/News/Version010504) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010504.md))
 - [What's New In Version 1.5.4](https://zodttd.github.io/GammaSupportDocs/WhatsNew/v010504tst) (whatsnew, whatsnewv010504, whatsnewv010504tst) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/WhatsNew/v010504tst.md))
 
 
