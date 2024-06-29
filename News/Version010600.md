@@ -15,6 +15,9 @@ Gamma has been updated to version 1.6.0 with the following:
  - Fixed a bug preventing PBP files from being imported in the file menu
  - Added support for many games from bug reports I received
 
+Update to 1.6.0 now:
+[https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
+
 Be sure to try the new controller skin! Also remap your hardware controllers to support analog sticks.
 Remember to try the new "Precise Cycles" option for any game that isn't working, and let us know if it helps.
 We're always listening to our fans and glad to bring you your requests. Thank you for all the feedback!
