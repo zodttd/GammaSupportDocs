@@ -16,7 +16,7 @@ Gamma has been updated to version 1.6.0 with the following:
  - Added support for many games from bug reports I received
 
 Update to 1.6.0 now:
-[https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
+[https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870](https://apple.co/4cnBbqG)
 
 Be sure to try the new controller skin! Also remap your hardware controllers to support analog sticks.
 Remember to try the new "Precise Cycles" option for any game that isn't working, and let us know if it helps.
