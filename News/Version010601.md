@@ -1,25 +1,35 @@
 ---
-title: Big update! Version 1.6.0 released
+title: Big update! Version 1.6.1 released
 tags: news,toppriority
 ---
 
-# Version 1.6.0 is here!
+# Version 1.6.1 is here!
 
 
-Gamma has been updated to version 1.6.0 with the following:
+Gamma has been updated to version 1.6.1 with the following:
+Summary of what's new in v1.6.1:
+ - New controller skin set as default for iPad in addition to iPhone
+ - Hardware controller default mapping fixed, analogs are mapped and buttons are no longer reversed
+ - Fixed stuck left button
+ - Fixed crash on import
+ - Added option in main menu game's long-press options to force the emulated controller's analog mode on rather than treating the analogs as a d-pad
+
+Summary of what's new since v1.6.0:
  - Local multiplayer: Connect up to 4 controllers!
- - New controller skin that supports analog controls! Currently on iPhone. iPad users will get an update shortly. You can always switch to this skin or the original skin in Settings -> Controller Type
+ - Added a new default game controller skin by R3BEL! Best of all it has analog sticks added! You can switch to the previous version at any time in Settings -> Controller Skins (PS 1). Select a Portrait / Landscape skin and choose your favorite!
  - Games with Dual Shock controller are supported! Just toggle analog controls in the pause menu from dpad to analog like you would a Dual Shock.
  - Hardware controllers now support in-game analog controls, map them to your controller's analog sticks! Because we added analog controls, you may need to remap your hardware controller this one time. In Settings you can map your analog sticks by selecting each direction on the analog thumbsticks to the direction on your controller's sticks.
  - Fixed a bug in the game selection screen's long-press Save State menu item
  - Fixed a bug preventing PBP files from being imported in the file menu
  - Added support for many games from bug reports I received
 
-Update to 1.6.0 now:
+Update to 1.6.1 now:
 [Long-press and choose Open Link to open Gamma's App Store page](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
 
 Be sure to try the new controller skin! Also remap your hardware controllers to support analog sticks.
 Remember to try the new "Precise Cycles" option for any game that isn't working, and let us know if it helps.
+
+We'll be going through bug reports of a few select games that still need to be fixed...
 We're always listening to our fans and glad to bring you your requests. Thank you for all the feedback!
 
 
