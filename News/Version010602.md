@@ -63,7 +63,7 @@ The following games are now compatible:
 - Vagrant Story 
 - Breath of Fire 4
 - and more!
-
+ 
 We added:
 - Multi-code cheats are now working. Cheat codes will be enabled for all users once testing is complete.
 - Added a Widescreen 3D option to modify 3D games to work in landscape 16:9 wide format.
