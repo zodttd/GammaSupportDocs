@@ -59,7 +59,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Multi-Disc functionality is here](https://zodttd.github.io/GammaSupportDocs/News/MutiDisc) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/MutiDisc.md))
 - [No more ads with Gamma Pro](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Settings](https://zodttd.github.io/GammaSupportDocs/GettingStarted/Settings) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/Settings.md))
-- [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia.md))
+- [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia2) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia2.md))
 - [Subscribing as a Gamma Supporter](https://zodttd.github.io/GammaSupportDocs/News/GammaSupporters) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupporters.md))
 - [Supported File Types](https://zodttd.github.io/GammaSupportDocs/FAQs/SupportedFileTypes) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/SupportedFileTypes.md))
 - [Swap a CD in a multi-disc game](https://zodttd.github.io/GammaSupportDocs/GettingStarted/MultiDisc) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/MultiDisc.md))
