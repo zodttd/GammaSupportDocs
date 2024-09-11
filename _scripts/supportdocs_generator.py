@@ -92,12 +92,15 @@ if __name__ == "__main__":
             except KeyError:
                 help_file_tags = []
 
-            add_help_file(
-                help_file_frontmatter["title"],
-                directory,
-                file.replace(".md", ""),
-                help_file_tags,
-            )
+            if "title" in help_file_frontmatter["title"]
+            {
+                add_help_file(
+                    help_file_frontmatter["title"],
+                    directory,
+                    file.replace(".md", ""),
+                    help_file_tags,
+                )
+            }
 
     root_md_files = [
         file
