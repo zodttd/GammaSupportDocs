@@ -7,7 +7,7 @@ tags: contact
 
 Follow our social media accounts:
 - Discord:
-[UPDATED LINK: https://discord.gg/fnpkJhWhcp](https://discord.gg/fnpkJhWhcp)
+[https://discord.gg/fnpkJhWhcp](https://discord.gg/fnpkJhWhcp)
 - Reddit:
 [https://www.reddit.com/r/GammaEmulator/](https://www.reddit.com/r/GammaEmulator/)
 - X (Twitter):

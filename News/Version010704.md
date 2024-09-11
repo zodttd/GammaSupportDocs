@@ -1,20 +1,56 @@
 ---
-title: An important bug fixed! Version 1.6.2 released
+title: Important update! Version 1.7.4 released
 tags: news,toppriority
 ---
 
-# Version 1.6.2 is here!
+# Version 1.7.4, an important update!
 
 
-Gamma has been updated to version 1.6.2 with the following:
+First thing's first, you're invited to come join our Discord!
+[https://discord.gg/fnpkJhWhcp](https://discord.gg/fnpkJhWhcp)
+
+And then update to 1.7.4 now:
+[Long-press and choose Open Link to open Gamma's App Store page](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
+
+Gamma has seen a lot of updates recently, now at version 1.7.4:
+ - Version 1.7.4 brings many important bug fixes to the emulation core as well as long-standing stability fixes
+Version 1.7.x brings you soooo much:
+ - Beautifully added L3 and R3 controller buttons
+ - Supports the latest iOS's Game Mode
+ - Take screenshots
+ - Import ZIP files
+ - Import 7z files as a Gamma Pro without using an app like Unzip
+ - Fixed a bug affecting saving to memory cards
+ - Memory cards are now per-game
+ - You can now import and export memory cards
+ - Fast forward now has variable speed, tap and hold to select
+ - Set your color theme for Gamma with the Gamma Pro Color picker. Thank you for your support!
+ - Fixed display bugs with external displays
+ - Added a volume setting to play game audio while listening to another app
+ - Shows total time you've played a game, shown in pause menu
+ - Added SBI patch support in game selection's long-press menu to properly play certain EU region games
+ - Enhanced Audio is set to on by default
+ - Added option to remove am imported BIOS
+ - Fixed offline mode
+ - Fixed a controller bug when resuming a paused state
+ - Fixed a bug on iPad causing crashes when tapping the cheats and reset controller skin buttons
+ - Fixed many games as noted in the app's What's New section
+ - Much of the work in this update is a result of listening to feedback I get from bug reports. You ask, we deliver!
+
+
+Update to 1.7.4 now:
+[Long-press and choose Open Link to open Gamma's App Store page](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
+
+
+
+# Previous updates
+
+
+Summary of what's new in v1.6.1:
  - Fixed bugs affecting controls
  - Made multitap hardware emulation an option to enable. For 4 player games, go to the main menu and long-press the game, choose Enable Multitap
  - Fixed Tekken 3, Parasite Eve II, Hogs of War, Persona 2, Covert Ops Nuclear Dawn (Chase the Express), Getter Robo Daikessen!
  - Fixed bug that prevented cover art from automatically showing in rare cases
-
-Update to 1.6.2 now:
-[Long-press and choose Open Link to open Gamma's App Store page](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
-
 
 Summary of what's new in v1.6.1:
  - New controller skin set as default for iPad in addition to iPhone
@@ -37,9 +73,6 @@ Remember to try the new "Precise Cycles" option for any game that isn't working,
 
 We'll be going through bug reports of a few select games that still need to be fixed...
 We're always listening to our fans and glad to bring you your requests. Thank you for all the feedback!
-
-
-# Previous updates
 
 
 Version 1.5.4:
