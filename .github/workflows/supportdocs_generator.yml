@@ -1,4 +1,7 @@
 name: "SupportDocs Generator"
+runs:
+  using: 'node20'
+  main: 'main.js'
 on:
     push:
         branches:
