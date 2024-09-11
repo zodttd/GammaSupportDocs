@@ -1,13 +1,13 @@
 name: "SupportDocs Generator"
-runs:
-  using: 'node20'
-  main: 'main.js'
 on:
     push:
         branches:
             - DataSource
 jobs:
     generate:
+        runs:
+          using: 'node20'
+          main: 'main.js'
         runs-on: ubuntu-latest
         steps:
             - name: Checkout Branch
