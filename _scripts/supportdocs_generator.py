@@ -120,12 +120,13 @@ if __name__ == "__main__":
         except KeyError:
             help_file_tags = []
 
-        add_help_file(
-            help_file_frontmatter["title"],
-            "",
-            file.replace(".md", ""),
-            help_file_tags,
-        )
+        if "title" in help_file_frontmatter:
+            add_help_file(
+                help_file_frontmatter["title"],
+                "",
+                file.replace(".md", ""),
+                help_file_tags,
+            )
 
     if not os.path.isdir(os.path.abspath("_data")):
         os.mkdir("_data")
