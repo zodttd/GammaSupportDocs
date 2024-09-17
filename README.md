@@ -51,6 +51,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Bug Reports & Feature Requests](https://zodttd.github.io/GammaSupportDocs/Contact/BugReport3) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/BugReport3.md))
 - [Cheats are here](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes-2) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes-2.md))
 - [Coming soon!](https://zodttd.github.io/GammaSupportDocs/ControllerSkins/ComingSoon) (controllerskins) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/ControllerSkins/ComingSoon.md))
+- [Deleting Games In Gamma](https://zodttd.github.io/GammaSupportDocs/GettingStarted/DeletingGames) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/DeletingGames.md))
 - [Email Us](https://zodttd.github.io/GammaSupportDocs/Contact/Email) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/Email.md))
 - [Game Compatibility](https://zodttd.github.io/GammaSupportDocs/FAQs/Compatibility) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/Compatibility.md))
 - [Gamma Support Center has arrived](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
