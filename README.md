@@ -48,6 +48,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://zodttd.github.io/GammaSupportDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/404.md))
 - [Adding Games To Gamma](https://zodttd.github.io/GammaSupportDocs/GettingStarted/AddGames) (gettingstarted, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/AddGames.md))
+- [Advanced Features](https://zodttd.github.io/GammaSupportDocs/FAQs/AdvancedFeatures) (faqs) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/FAQs/AdvancedFeatures.md))
 - [Bug Reports & Feature Requests](https://zodttd.github.io/GammaSupportDocs/Contact/BugReport3) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/BugReport3.md))
 - [Cheats are here](https://zodttd.github.io/GammaSupportDocs/News/CheatCodes-2) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/CheatCodes-2.md))
 - [Coming soon!](https://zodttd.github.io/GammaSupportDocs/ControllerSkins/ComingSoon) (controllerskins) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/ControllerSkins/ComingSoon.md))
@@ -57,7 +58,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Gamma Support Center has arrived](https://zodttd.github.io/GammaSupportDocs/News/GammaSupportArrived) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaSupportArrived.md))
 - [Important update! Version 1.7.4 released](https://zodttd.github.io/GammaSupportDocs/News/Version010602) (none) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010602.md))
 - [Important update! Version 1.7.4 released](https://zodttd.github.io/GammaSupportDocs/News/Version010704) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/Version010704.md))
-- [Multi-Disc functionality is here](https://zodttd.github.io/GammaSupportDocs/News/MutiDisc) (news, priority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/MutiDisc.md))
 - [No more ads with Gamma Pro](https://zodttd.github.io/GammaSupportDocs/News/GammaPro) (news, toppriority) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/News/GammaPro.md))
 - [Settings](https://zodttd.github.io/GammaSupportDocs/GettingStarted/Settings) (gettingstarted) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/GettingStarted/Settings.md))
 - [Social Media - Follow us!](https://zodttd.github.io/GammaSupportDocs/Contact/SocialMedia2) (contact) ([edit](https://github.com/zodttd/GammaSupportDocs/edit/DataSource/Contact/SocialMedia2.md))
