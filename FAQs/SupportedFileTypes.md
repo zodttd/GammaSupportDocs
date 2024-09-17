@@ -15,3 +15,6 @@ When importing multidisc BIN files, a CUE file is used. You must import the CUE 
 - PBP (Supports discswapping as of version 1.5.0)
 - MDS
 - ISO
+
+Gamma Pro members can also import:
+- 7z and zip archive files. If these files contain items like CUE and BIN files, it automatically imports them as a great time-saving feature.
